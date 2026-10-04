@@ -20,4 +20,10 @@ rd/s/q "C:\Program Files (x86)\Microsoft\Temp"
 
 echo If you get "Acces is denied", run as admin. If you get "The system cannot find the file specified", edge might already be gone
 
+:: Tells you something.
+
+You can now safely close this program.
+
+:: Pauses the script.
+
 PAUSE
