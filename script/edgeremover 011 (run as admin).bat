@@ -22,7 +22,7 @@ echo If you get "Acces is denied", run as admin. If you get "The system cannot f
 
 :: Tells you something.
 
-You can now safely close this program.
+echo You can now safely close this program.
 
 :: Pauses the script.
 
