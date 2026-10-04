@@ -8,9 +8,9 @@ The project removes edge by deleteing the Edge, EdgeCore, EdgeUpdate, EdgeWebvie
 
 These are the instructions to remove edge
 
-Step 1: Find the batch file
+Step 1: Find the batch file.
 Step 2: Right click the file and run it as admin.
 
 The script will than remove all the Edge folders.
 
-NOTE: This project is very simple so it might not work very well.
+NOTE: This project does not work with the UWP (Universal Windows Platform) version of Microsoft Edge yet and only removes edge files so the system may see Microsoft Edge still installed.
