@@ -1,4 +1,4 @@
-# edgeremover
+# EdgeEraser
 
 What the project actully does.
 
